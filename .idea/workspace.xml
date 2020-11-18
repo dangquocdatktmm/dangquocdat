@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d84dbb7c-7855-42c0-b22b-eead0ecab0de" name="Default Changelist" comment="dfdfd">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/Assignment13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/assignment13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/clock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demo bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demoevent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lab14.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/practical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoevent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anoceanofsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/durban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ic_search_48px-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/logo-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/robben-island.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/search-find-magnifier-function-player-keyword-name-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/touristen_wild_coast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lab14_api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6.html" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/css/hocthem1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hocthem1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/icon-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+>>>>>>> origin/master
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iWtmMJZxQRWItbuPkCiMGLTBYI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../btnhom_HTML" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hoc tap\HTML CSS\T2008M_Web" />
+      <recent name="D:\hoc tap\HTML CSS\T2008M_Web\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84dbb7c-7855-42c0-b22b-eead0ecab0de" name="Default Changelist" comment="" />
+      <created>1602035336493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602035336493</updated>
+      <workItem from="1602035337725" duration="254000" />
+      <workItem from="1602037315169" duration="748000" />
+      <workItem from="1602045032984" duration="2161000" />
+      <workItem from="1602047250953" duration="10000" />
+      <workItem from="1602146598749" duration="8971000" />
+      <workItem from="1602208041143" duration="7940000" />
+      <workItem from="1602466344041" duration="7813000" />
+      <workItem from="1602482285126" duration="9352000" />
+<<<<<<< HEAD
+      <workItem from="1602813414908" duration="9530000" />
+      <workItem from="1603071905885" duration="87000" />
+      <workItem from="1603072011373" duration="8345000" />
+      <workItem from="1603676710499" duration="8622000" />
+      <workItem from="1603851902851" duration="3188000" />
+      <workItem from="1603863228785" duration="33000" />
+      <workItem from="1604281351404" duration="6709000" />
+      <workItem from="1604403005105" duration="688000" />
+      <workItem from="1604459229031" duration="2073000" />
+      <workItem from="1604468608009" duration="671000" />
+      <workItem from="1604470367485" duration="2467000" />
+      <workItem from="1604625989284" duration="7513000" />
+      <workItem from="1604886395213" duration="581000" />
+      <workItem from="1605668118169" duration="5103000" />
+=======
+      <workItem from="1602813414908" duration="7716000" />
+>>>>>>> origin/master
+    </task>
+    <task id="LOCAL-00001" summary="dfdfd">
+      <created>1602156407602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602156407602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dfdfd">
+      <created>1602478387816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602478387818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dfdfd">
+      <created>1602478783115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602478783115</updated>
+    </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00004" summary="dfdfd">
+      <created>1602821561415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602821561415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+=======
+    <option name="localTasksCounter" value="4" />
+>>>>>>> origin/master
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="dfdfd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfdfd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602038045439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602038045439" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605668316664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+<<<<<<< HEAD
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605668316664" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602821707284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602821707284" />
+=======
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602035590984" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602478393382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602478393382" />
+>>>>>>> origin/master
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602156106955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602156106955" />
+<<<<<<< HEAD
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604629974889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604629974889" />
+=======
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602819351622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602819351622" />
+>>>>>>> origin/master
+  </component>
+</project>

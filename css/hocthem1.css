@@ -1,0 +1,37 @@
+.product{
+    max-width: 1300px;
+    float: left;
+}
+.col{
+    width: 250px;
+    margin-right: 10px;
+    float: left;
+    background: #f5f5f5;
+    text-align: center;
+    position: relative;
+}.icon{
+     width: 30px;
+     height: 90px;
+     position: absolute;
+     top: 50%;
+     right: 10px;
+     margin-top: -45px;
+     opacity: 0;
+ }
+.hrv_icon{
+    width: 30px;
+    float: left;
+}
+.col:hover .icon{
+    opacity: 1;
+}
+.hrv_icon:hover {
+    transform: scale(1.2);
+}
+.image{
+
+    max-width: 180px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
